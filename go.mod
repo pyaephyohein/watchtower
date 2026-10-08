@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/containrrr/shoutrrr v0.6.1
-	github.com/docker/cli v20.10.17+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker v20.10.17+incompatible
 	github.com/docker/go-connections v0.4.0
